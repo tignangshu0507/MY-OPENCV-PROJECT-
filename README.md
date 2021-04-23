@@ -6,3 +6,5 @@ THIS PROJECT IS MAINLY TARGETED TO MASTER OPENCV AND LINK IT UP TO THE WEB INTER
 3. The interface has functionality to access device camera 4. Implement face detection using OpenCV or any other computer vision library on uploaded image 
 4.  Implement a boundary box to track face on the streaming video from device camera 
 5.  Calculate heart rate by recording finger tip video. 
+
+Here's the gdrive link for the web interface : https://drive.google.com/file/d/1AzB0QC3yXC-6qfpDd6a-9HetBqCknnfc/view?usp=sharing
