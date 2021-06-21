@@ -1,4 +1,4 @@
-# MY-OPENCV-PROJECT-
+# computer-vision-aid-in-heart-beat-recognition
 THIS PROJECT IS MAINLY TARGETED TO MASTER OPENCV AND LINK IT UP TO THE WEB INTERFACE TO PUT IT TO HUMAN USE 
 
 1. Design and build a simple web UI/Mobile app for below objectives 
